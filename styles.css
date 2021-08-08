@@ -32,6 +32,11 @@ hr {
     margin: 2rem 0rem;
 }
 
+.space
+{
+    padding: 0rem 4rem;
+   
+}
 
 .link-primary {
     background-color: var(--primary-color);
