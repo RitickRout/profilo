@@ -143,3 +143,19 @@ footer .link
 {
     color:white;
 }
+
+.blog
+{
+    text-decoration: none;
+}
+
+.blog-pad
+{
+    padding: 0.5rem 0rem;
+}
+
+.react-img
+{
+    max-width: 500px;
+    margin: auto;
+}
