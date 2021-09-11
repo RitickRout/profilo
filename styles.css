@@ -122,6 +122,7 @@ hr {
 
 .ow {
  background-color: var(--gray-color);
+ 
 }
 
 /** footers  **/
@@ -147,15 +148,19 @@ footer .link
 .blog
 {
     text-decoration: none;
+    border: 1px solid rgba(0, 0, 255, 0.548);
+    border-radius: 0.5rem;
+    color: white;
+    background-color: var(--blue-color);
 }
 
-.blog-pad
-{
-    padding: 0.5rem 0rem;
-}
 
 .react-img
 {
     max-width: 500px;
     margin: auto;
+}
+
+.spa{
+    margin: .5rem 0rem;
 }
